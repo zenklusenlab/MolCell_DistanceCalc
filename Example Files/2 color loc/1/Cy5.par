@@ -1,0 +1,76 @@
+***********************************
+LOCALIZATION parameters
+***********************************
+Wed May 03 17:57:15 2017
+input file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.tif
+output file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.loc
+psfwidth=      1.70000
+region (x0, y0, Nx, Ny):       0       0        1904        1900
+auto threshold:      7.00000
+black level: local (i.e. fit to a plane
+cut_size=      3.50000
+photon_threshold=      14.0000
+tolerance=      2.00000
+number of spots:         816
+algorithm: Gaussian Mask Algorithm
+# frames localized in FCS_FRAP mode:            0
+run time:       17.586000
+***********************************
+LOCALIZATION parameters
+***********************************
+Thu May 18 12:06:33 2017
+input file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.tif
+output file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.loc
+psfwidth=      1.70000
+region (x0, y0, Nx, Ny):       0       0        1904        1900
+auto threshold:      5.00000
+black level: local (i.e. fit to a plane
+cut_size=      3.50000
+photon_threshold=      10.0000
+tolerance=      2.00000
+number of spots:         905
+algorithm: Gaussian Mask Algorithm
+# frames localized in FCS_FRAP mode:            0
+run time:       24.150000
+***********************************
+LOCALIZATION parameters
+***********************************
+Thu May 18 12:16:40 2017
+input file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.tif
+output file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.loc
+psfwidth=      1.70000
+region (x0, y0, Nx, Ny):       0       0        1904        1900
+auto threshold:      1.00000
+black level: local (i.e. fit to a plane
+cut_size=      3.50000
+photon_threshold=      10.0000
+tolerance=      2.00000
+number of spots:       22134
+algorithm: Gaussian Mask Algorithm
+# frames localized in FCS_FRAP mode:            0
+run time:       870.53800
+***********************************
+LOCALIZATION parameters
+***********************************
+Fri Jun 16 12:22:03 2017
+input file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.tif
+output file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\Vatsi\PhD\2017\2017-05-02 Channel Alignment MDN1\Analysis\1\Cy5.loc
+psfwidth=      1.70000
+region (x0, y0, Nx, Ny):       0       0        1904        1900
+auto threshold:      7.00000
+black level: local (i.e. fit to a plane
+cut_size=      3.50000
+photon_threshold=      10.0000
+tolerance=      2.00000
+number of spots:         816
+algorithm: Gaussian Mask Algorithm
+# frames localized in FCS_FRAP mode:            0
+run time:       18.136000

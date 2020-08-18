@@ -1,0 +1,19 @@
+***********************************
+LOCALIZATION parameters
+***********************************
+Thu Oct 26 18:04:40 2017
+input file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\mRNP conformation\New 5'-3' Data MDN1, POLA1, PRPF8, TUG1 OIP5-AS1 all conditions\HEK293\2 color\MDN1\Untreated2\2\Cy3.tif
+output file=
+C:\Users\p1124429\Dropbox (zenklusenlab)\mRNP conformation\New 5'-3' Data MDN1, POLA1, PRPF8, TUG1 OIP5-AS1 all conditions\HEK293\2 color\MDN1\Untreated2\2\Cy3.loc
+psfwidth=      1.70000
+region (x0, y0, Nx, Ny):       0       0        1904        1900
+auto threshold:      7.00000
+black level: local (i.e. fit to a plane
+cut_size=      3.50000
+photon_threshold=      10.0000
+tolerance=      2.00000
+number of spots:         716
+algorithm: Gaussian Mask Algorithm
+# frames localized in FCS_FRAP mode:            0
+run time:       16.403000
